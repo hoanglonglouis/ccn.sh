@@ -16,4 +16,3 @@ then
 else
 	sudo systemctl start xmr.service
 fi
-
